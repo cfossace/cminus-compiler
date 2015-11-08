@@ -1,7 +1,5 @@
 ====================
-Description of files
-Project 4
-By Christine Fossaceca
+Cminus Compiler By Christine Fossaceca
 ====================
 Makefile	File for compiling/building program using make utility.
 README.txt		This file.
