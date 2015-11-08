@@ -205,5 +205,3 @@ char * genLabel(void) {
 
 void scanNow(int JVM){
 	printf("aload %d\ninvokevirtual java/util/Scanner/nextInt()I\n",JVM, JVM);}
-
-
